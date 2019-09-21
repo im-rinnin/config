@@ -3,7 +3,6 @@ set hlsearch
 set backspace=indent,eol,start
 autocmd FileType python setlocal et sta sw=4 sts=4
 colo desert
-set number
 set cindent
 set autoindent
 set smartindent
