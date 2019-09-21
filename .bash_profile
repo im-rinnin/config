@@ -8,4 +8,5 @@ alias gp='git pull'
 alias gm='git commit -a -m'
 
 alias pp='ps -elf|grep'
+alias co='cd ~/code'
 
