@@ -26,7 +26,6 @@ set fileencoding=utf-8
 set fileencodings=ucs-bom,utf-8,chinese,cp936
 source $VIMRUNTIME/delmenu.vim
 source $VIMRUNTIME/menu.vim
-language messages zh_CN.utf-8
 ""--------------------------------------------------------------------language and present--------------------------------------------------------------------""
 filetype plugin indent on 
 filetype plugin on
