@@ -12,3 +12,5 @@ alias gh='git stash'
 alias pp='ps -elf|grep'
 alias co='cd ~/code'
 
+alias di='docker image'
+alias dc='docker container'
